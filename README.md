@@ -1,5 +1,5 @@
 # BasicBankingSystem
-**Hey there! I have created a basic banking system as Task #1 as an intern for The Sparks Foundation**
+**Hey there! I have created a basic banking system as Task #1 as an intern for The Sparks Foundation.**
 #GRIPFEB22
 
 Task 1: Basic Banking System
